@@ -1,0 +1,17 @@
+VALUEATLAS 3.5 - live trading desk + undervalued stock screener
+
+WINDOWS
+  1. Right-click the ZIP > Extract All, then open the extracted folder.
+  2. Double-click  "Install ValueAtlas.cmd"
+     (If Windows SmartScreen appears: More info > Run anyway.)
+  3. Your browser opens the ValueAtlas trade desk. Type any ticker (AAPL,
+     TSLA, SAP.DE...) to see bullish/bearish on 1m to 1-day charts.
+
+  You do NOT need to install Python yourself. Nothing needs admin rights.
+  Afterwards open it with the ValueAtlas icon on your desktop.
+  It updates itself every day at 22:30 (change this in Settings).
+
+MAC / LINUX
+  Open a terminal in this folder and run:   bash installer/install.sh
+
+Read README.md for details on how the rankings, outlook and max pain work.
